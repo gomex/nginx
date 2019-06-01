@@ -1,0 +1,6 @@
+---
+# Comentario sobre a variável version, ensinando como usa ela e para que serve.
+version: "latest"
+
+# Comentario sobre a variavel2, aqui normalmente se fala bem resumido.
+variacel2: true
